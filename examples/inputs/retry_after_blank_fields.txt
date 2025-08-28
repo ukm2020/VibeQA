@@ -1,0 +1,2 @@
+Attempt login with blank fields, receive validation error, then retry with valid credentials and succeed.
+

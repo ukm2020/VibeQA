@@ -1,0 +1,2 @@
+Reject invalid email during signup; keep password valid to isolate email error. Assert error copy contains 'invalid'.
+

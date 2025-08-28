@@ -1,0 +1,2 @@
+Login from homepage with valid credentials and land on dashboard.
+

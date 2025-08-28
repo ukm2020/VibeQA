@@ -1,0 +1,15 @@
+Scenario:
+{scenario}
+
+Constraints and context:
+- Base URL: {base_url_or_none}
+- Tags to include: {tags_csv_or_empty}
+- Variables available: {variables_or_empty}
+- Validation rules:
+  * Must return valid JSON per the schema above.
+  * Steps must be actionable with CSS selectors (prefer [data-test]).
+  * Use "contains" in assert_element_text unless exact match is required.
+
+Deliverable:
+Return the JSON object only.
+
